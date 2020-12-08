@@ -1,6 +1,8 @@
 OMERO.grid Docker
 =================
 
+[![Actions Status](https://github.com/ome/omero-grid-docker/workflows/Build/badge.svg)](https://github.com/ome/omero-grid-docker/actions)
+
 This is an example of using OMERO on multiple nodes (such as running the Processor service on a separate node from the main OMERO.server), based on
 http://www.openmicroscopy.org/site/support/omero5/sysadmins/grid.html#nodes-on-multiple-hosts
 
